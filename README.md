@@ -1,7 +1,7 @@
-# mahinx.github.io
+# Ehsanx.github.io
 
 [![Website monip.org](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](http://monip.org/)
-[![HitCount](http://hits.dwyl.io/mahinx/mahinxgithub.svg)](http://hits.dwyl.io/mahinx/mahinxgithub)
+[![HitCount](http://hits.dwyl.io/ehsanx/ehsanxgithub.svg)](http://hits.dwyl.io/ehsanx/ehsanxgithub)
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
 ---
